@@ -196,8 +196,7 @@ body {
   justify-content: space-between;
 }
 .features-item {
-min-width: 270px;
-min-height: 101px;
+  min-width: 270px;
 }
 
 .features-item:not(:last-child) {
